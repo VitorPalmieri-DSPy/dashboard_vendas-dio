@@ -12,13 +12,6 @@
 
 [📋 Sobre](#-sobre-o-projeto) • [🎯 Funcionalidades](#-funcionalidades) • [🔄 Metodologia](#-metodologia-abcde) • [📊 Visualizações](#-visualizações-do-dashboard) • [🎨 Design](#-identidade-visual) • [📈 Análises](#-análises-de-negócio) • [🚀 Como Usar](#-como-usar)
 
----
-
-### 🎯 Preview do Dashboard
-
-![Dashboard Preview](./screenshots/dashboard_main.png)
-*Dashboard principal com análise de vendas de assinaturas Xbox Games Pass*
-
 </div>
 
 ---
